@@ -10,5 +10,5 @@ public class CookHelperServerApplication {
         SpringApplication.run(CookHelperServerApplication.class, args);
     }
 
-    
+
 }
